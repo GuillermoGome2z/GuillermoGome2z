@@ -202,25 +202,23 @@ const guillermo = {
 
 ---
 
-## 💡 Frase Motivacional
+## 💡 Frase Motivacional del Día
 
 <div align="center">
 
-### ✨ Para Desarrolladores
-
 <table>
 <tr>
-<td align="center">
+<td align="center" style="padding: 20px;">
 
-**"El código limpio es el arte de la simplicidad"** 🎨
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=100&lines=💻+El+código+limpio+es+el+arte+de+la+simplicidad" alt="Motivational Quote" />
 
-**"Cada error es una lección, cada commit es un logro"** 💪
+<br>
 
-**"La mejor forma de predecir el futuro es construirlo con código"** 🚀
+<img src="https://img.shields.io/badge/Última_actualización-Iniciando-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Last Updated" />
 
-**"No cuentes los días, haz que los días cuenten"** ⚡
+<br><br>
 
-**"Transforma problemas en soluciones, ideas en realidad"** ✨
+<sub>🎨 Esta frase cambia automáticamente cada 6 horas 🎨</sub>
 
 </td>
 </tr>
@@ -229,6 +227,8 @@ const guillermo = {
 </div>
 
 ---
+
+## 📚 Últimas Publicaciones del Blog
 
 ## 📚 Últimas Publicaciones del Blog
 
