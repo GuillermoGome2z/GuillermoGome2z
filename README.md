@@ -210,15 +210,15 @@ const guillermo = {
 <tr>
 <td align="center" style="padding: 20px;">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%8C%88%20La%20programaci%C3%B3n%20es%20el%20lenguaje%20del%20futuro" alt="Motivational Quote" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A8E6CF&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%8E%AF%20Transforma%20problemas%20en%20soluciones%2C%20ideas%20en%20realidad" alt="Motivational Quote" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Última_actualización-2025-11-10_16%3A45%3A19-FFB6C1?style=for-the-badge&logo=github&logoColor=white" alt="Last Updated" />
+<img src="https://img.shields.io/badge/Última_actualización-2025-11-10_16%3A45%3A32-A8E6CF?style=for-the-badge&logo=github&logoColor=white" alt="Last Updated" />
 
 <br><br>
 
-<sub>🚀 Esta frase cambia automáticamente cada 6 horas 🚀</sub>
+<sub>💡 Esta frase cambia automáticamente cada 6 horas 💡</sub>
 
 </td>
 </tr>
