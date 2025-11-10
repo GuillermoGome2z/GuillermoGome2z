@@ -169,7 +169,6 @@ const guillermo = {
 
 </div>
 
-> 📌 **Nota:** Aquí aparecerán automáticamente tus repos con más estrellas. También puedes agregar manualmente tus proyectos favoritos reemplazando el nombre del repo en la URL.
 
 ### 💼 Proyectos en los que he trabajado:
 
