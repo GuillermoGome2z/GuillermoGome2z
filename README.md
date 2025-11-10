@@ -228,7 +228,6 @@ const guillermo = {
 
 ---
 
-## 📚 Últimas Publicaciones del Blog
 
 ## 📚 Últimas Publicaciones del Blog
 
