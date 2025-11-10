@@ -1,0 +1,53 @@
+name: 🤖 Update Profile README
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Cada 6 horas
+  workflow_dispatch:  # Permite ejecución manual desde la UI
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update timestamp and stats
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+        
+      - name: ⏰ Update timestamp
+        run: |
+          TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S')
+          echo "Current time: $TIMESTAMP UTC"
+          sed -i "s/🕐 \*\*Última actualización:\*\* .*/🕐 **Última actualización:** $TIMESTAMP UTC  /g" README.md
+          
+      - name: 📊 Update stats comment
+        run: |
+          echo "Stats updated at $(date -u '+%Y-%m-%d %H:%M:%S')"
+          
+      - name: ✅ Check if there are changes
+        id: verify_diff
+        run: |
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+          
+      - name: 💾 Commit changes
+        if: steps.verify_diff.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "🤖 Auto-update: README timestamp [skip ci]" -m "Updated by GitHub Actions workflow"
+          git push
+          
+      - name: 🎉 Success notification
+        if: steps.verify_diff.outputs.changed == 'true'
+        run: |
+          echo "✅ Profile successfully updated!"
+          echo "📅 Timestamp: $(date -u '+%Y-%m-%d %H:%M:%S') UTC"
