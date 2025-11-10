@@ -100,50 +100,60 @@ const guillermo = {
 
 ---
 
-## 🎓 Certificaciones y Logros
+---
+
+## 🎓 Certificaciones Profesionales
 
 <div align="center">
 
 <img src="./assets/certificates-bg.svg" width="100%" alt="Certificates Background">
 
+<br><br>
+
+### 🏆 Mis Certificados Verificados
+
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🏆-JavaScript-F7DF1E?style=for-the-badge&logoColor=black"/>
-      <br><strong>JavaScript Algorithms</strong>
-      <br><sub>freeCodeCamp</sub>
+    <td align="center" width="50%">
+      <a href="https://freecodecamp.org/certification/fcca734f724-00b9-4e9d-96ef-0eec547230ff/front-end-development-libraries" target="_blank">
+        <img src="./assets/cert-freecodecamp.jpg" alt="freeCodeCamp Certificate" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(124, 58, 237, 0.3);"/>
+      </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/🔥-Front_End_Development-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+      <br><br>
+      <strong style="font-size: 18px;">Front End Development Libraries V8</strong>
+      <br>
+      <sub>freeCodeCamp.org</sub>
+      <br>
+      <sub>📅 Octubre 2025 • ⏱️ 300 horas</sub>
+      <br>
+      <sub>✅ React, Redux, jQuery, Bootstrap, SASS</sub>
+      <br><br>
+      <a href="https://freecodecamp.org/certification/fcca734f724-00b9-4e9d-96ef-0eec547230ff/front-end-development-libraries" target="_blank">
+        <img src="https://img.shields.io/badge/Verificar_Certificado-00d8ff?style=flat&logo=freecodecamp&logoColor=white"/>
+      </a>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🏆-Full_Stack-7C3AED?style=for-the-badge"/>
-      <br><strong>Full Stack Developer</strong>
-      <br><sub>Certificación Profesional</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🏆-React-61DAFB?style=for-the-badge&logoColor=black"/>
-      <br><strong>React Development</strong>
-      <br><sub>Udemy / Platzi</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🏆-Python-3776AB?style=for-the-badge"/>
-      <br><strong>Python for Everybody</strong>
-      <br><sub>Coursera</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🏆-Git_&_GitHub-181717?style=for-the-badge"/>
-      <br><strong>Version Control</strong>
-      <br><sub>GitHub Learning Lab</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🏆-UI/UX-F24E1E?style=for-the-badge"/>
-      <br><strong>UI/UX Design</strong>
-      <br><sub>Google UX Design</sub>
+    <td align="center" width="50%">
+      <img src="./assets/cert-cybersecurity.jpg" alt="Cybersecurity Certificate" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 0, 0, 0.3);"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/🛡️-Ciberseguridad_&_Ethical_Hacking-FF0000?style=for-the-badge&logo=hackerone&logoColor=white"/>
+      <br><br>
+      <strong style="font-size: 18px;">Ciberseguridad y Ethical Hacking</strong>
+      <br>
+      <sub>Academia Hacker Mentor</sub>
+      <br>
+      <sub>📅 Octubre 2025 • ⏱️ 8 horas</sub>
+      <br>
+      <sub>✅ Ethical Hacking, Penetration Testing, Security</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/ID-388929dd--868b--4284--a13f--eff27a2791d-7C3AED?style=flat"/>
     </td>
   </tr>
 </table>
 
-> 💡 **Próximo objetivo:** AWS Certified Solutions Architect & Advanced Kubernetes
+<br>
+
+> 🎯 **Certificaciones verificables** - Click en "Verificar Certificado" para validar autenticidad
 
 </div>
 
