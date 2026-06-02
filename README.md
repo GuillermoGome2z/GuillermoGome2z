@@ -31,10 +31,10 @@ const guillermo = {
     currentFocus: "Desarrollo Junior & Experiencias de Usuario",
     technologies: {
         frontEnd: ["React", "Vue", "JavaScript", "TypeScript", "HTML5", "CSS3"],
-        backEnd: ["Node.js", "Express", "Python", "Django", "PHP"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
+        backEnd: ["Node.js", "Express", "Python"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
         tools: ["Git", "Docker", "VS Code", "Figma", "Postman"],
-        cloud: ["AWS", "Heroku", "Vercel", "Netlify"]
+        cloud: ["Vercel", "Netlify"]
     },
     learning: ["Next.js", "GraphQL", "Kubernetes", "Three.js"],
     interests: ["Web Performance", "UI/UX", "Open Source", "AI/ML"],
